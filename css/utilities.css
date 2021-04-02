@@ -42,8 +42,8 @@
   color: #fff;
 }
 
-.btn-light .bg-light {
-  background: #f4f4f4;
+.btn-light, .bg-light {
+  background-color: #f4f4f4;
   color: #333;
 }
 
