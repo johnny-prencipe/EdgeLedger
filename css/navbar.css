@@ -29,3 +29,7 @@
 .navbar .logo {
   font-weight: 400px;
 }
+
+.navbar.top {
+  background: transparent;
+}
